@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\bin\Debug\net6.0\Task_24feburary.exe
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\bin\Debug\net6.0\Task_24feburary.deps.json
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\bin\Debug\net6.0\Task_24feburary.runtimeconfig.json
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\bin\Debug\net6.0\Task_24feburary.dll
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\bin\Debug\net6.0\Task_24feburary.pdb
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.AssemblyInfo.cs
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.dll
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\refint\Task_24feburary.dll
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.pdb
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\Task_24feburary.genruntimeconfig.cache
+C:\Users\hp\Desktop\Yeni qovluq\task\Task_24feburary\Task_24feburary\obj\Debug\net6.0\ref\Task_24feburary.dll
